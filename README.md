@@ -1,8 +1,5 @@
 # 421 loop
-- https://youtube.com/shorts/8fNFd2Xswjs?si=uiAT20zpR5_knSkH
-
-
-https://github.com/KL-Mithunvel/421_loop/assets/147433270/d3ff0a50-004d-44f0-a222-f0bca374e9d8
+- Creadits to Veritasium who is one of my faverate youtubers 
 
 A number of people are asking why this problem is “dangerous”. 
 
@@ -13,4 +10,8 @@ Paul Erdos, a famous mathematician, said, "Mathematics is not yet ripe enough fo
 The problem is so maddeningly difficult, mathematicians are warned to stay away from it. 
 
 Watch the full video for more context: https://www.youtube.com/watch?v=094y1Z2wpJg
+
+
+
+https://github.com/KL-Mithunvel/421_loop/assets/147433270/3380172b-f97d-4c9e-91f1-87f266b7db10
 
