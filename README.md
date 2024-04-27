@@ -12,4 +12,4 @@ https://youtube.com/shorts/8fNFd2Xswjs?si=uiAT20zpR5_knSkH
 </object>
 [![Everything Is AWESOME](https://i.stack.imgur.com/q3ceS.png)]
 (https://youtu.be/StTqXEQ2l-Y?t=35s "Everything Is AWESOME")
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+[![IMAGE ALT TEXT HERE](https://upload.wikimedia.org/wikipedia/commons/c/c2/Collatz-graph-50-no27.svg)](https://youtube.com/shorts/8fNFd2Xswjs?si=uiAT20zpR5_knSkH)
