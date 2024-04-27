@@ -12,6 +12,3 @@ The problem is so maddeningly difficult, mathematicians are warned to stay away 
 Watch the full video for more context: https://www.youtube.com/watch?v=094y1Z2wpJg
 
 
-
-https://github.com/KL-Mithunvel/421_loop/assets/147433270/3380172b-f97d-4c9e-91f1-87f266b7db10
-
