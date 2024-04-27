@@ -10,4 +10,5 @@ https://youtube.com/shorts/8fNFd2Xswjs?si=uiAT20zpR5_knSkH
          type="application/x-shockwave-flash"
          wmode="transparent" width="425" height="350" />
 </object>
-[![Everything Is AWESOME](https://i.stack.imgur.com/q3ceS.png)](https://youtu.be/StTqXEQ2l-Y?t=35s "Everything Is AWESOME")
+[![Everything Is AWESOME](https://i.stack.imgur.com/q3ceS.png)]
+(https://youtu.be/StTqXEQ2l-Y?t=35s "Everything Is AWESOME")
