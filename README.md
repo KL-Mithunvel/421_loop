@@ -1,5 +1,5 @@
 # 421 loop (MOST DANGEROUS IN MATH)
-## Creadits to Veritasium who is one of my faverate youtubers 
+## Creadits to Veritasium who is one of my favorite youtubers 
 
 A number of people are asking why this problem is “<strong>dangerous</strong>”. 
 
