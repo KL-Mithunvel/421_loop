@@ -1,7 +1,7 @@
 # 421 loop
-- Creadits to Veritasium who is one of my faverate youtubers 
+## Creadits to Veritasium who is one of my faverate youtubers 
 
-A number of people are asking why this problem is “dangerous”. 
+A number of people are asking why this problem is “<strong>dangerous</strong>”. 
 
 It’s described as dangerous because its difficulty has defeated the world’s greatest mathematical minds for generations. 
 
