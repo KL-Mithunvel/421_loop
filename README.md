@@ -1,7 +1,7 @@
-# 421 loop
-- Creadits to Veritasium who is one of my faverate youtubers 
+# 421 loop (MOST DANGEROUS IN MATH)
+## Creadits to Veritasium who is one of my favorite youtubers 
 
-A number of people are asking why this problem is “dangerous”. 
+A number of people are asking why this problem is “<strong>dangerous</strong>”. 
 
 It’s described as dangerous because its difficulty has defeated the world’s greatest mathematical minds for generations. 
 
@@ -10,7 +10,6 @@ Paul Erdos, a famous mathematician, said, "Mathematics is not yet ripe enough fo
 The problem is so maddeningly difficult, mathematicians are warned to stay away from it. 
 
 Watch the full video for more context: https://www.youtube.com/watch?v=094y1Z2wpJg
-
 
 
 
