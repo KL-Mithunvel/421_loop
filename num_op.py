@@ -2,11 +2,11 @@ def calc(a):
     if a % 2 == 0:
         return even(a)
     else:
-        odd(a)
+        return odd(a)
 
 
 def even(a):
-    op = a*2
+    op = a//2
     return op
 
 
